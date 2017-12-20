@@ -1,0 +1,15 @@
+body {
+	background-image: url(../images/dots.png);
+}
+
+#wrapper { 
+	padding: 40px;
+	margin: 100px;
+	text-align: center;
+	background: grey;
+ } 
+
+ #start {
+ 	padding: 14px 40px;
+ 	font-size: 20px;
+ }
